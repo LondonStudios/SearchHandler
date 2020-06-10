@@ -5,6 +5,8 @@ This plugin is designed to enhance the player search experience for your FiveM s
 
 This plugin is made by LondonStudios, we have created a range of other plugins to enhance the roleplay experience including TaserFramework, ActivateAlarm, Policing Handbook & more in the future!.
 We invite you to join our discord [here](https://discord.gg/AtPt9ND).
+
+You can now buy me a coffee [here](https://www.buymeacoffee.com/londonstudios).
 ## Usage
 **/setinv [inventory]** - This sets your inventory prior to the search.
 Example usage: /setinv Phone, Money, Drugs
