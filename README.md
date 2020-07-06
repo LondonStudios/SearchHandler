@@ -11,8 +11,7 @@ You can now buy me a coffee [here](https://www.buymeacoffee.com/londonstudios).
 **/setinv [inventory]** - This sets your inventory prior to the search.
 Example usage: /setinv Phone, Money, Drugs
 
-**/search [PlayerId]** - This searches another player, you must be close to them
-Example usage: /search 2
+**/search** - This searches the nearest player.
 
 ## Installation
 1. Create a new resource folder on your server.
